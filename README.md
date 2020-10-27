@@ -3,4 +3,4 @@
 
 URL deployes link: https://github.com/jamiekim87/code-quiz.git
 
-Screenshot: 
+Screenshot: ![Screen Shot 2020-07-27 at 7 43 45 PM](https://user-images.githubusercontent.com/64169844/97250578-83aac300-17c3-11eb-944c-547aef944b58.png)
